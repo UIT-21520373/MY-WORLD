@@ -22,11 +22,11 @@
  
  **_✨ LEARNING ROUTES / PLAN TO DO 💻 ✨_**
  <img align="right" width="170px" alt="GIF" src="https://i.pinimg.com/originals/83/4f/38/834f3887bde180c0d471f00389466b9c.gif" />
- - 2021, Bắt đầu học tại lớp cử nhân tài năng ở UIT.
- - 2022, Học tập và tham gia AI-CLUB.
- - 2023, Tham gia các cuộc thi về nghiên cứu khoa học và có bài báo khoa học.
- - 2024, Tốt nghiệp đại học và học thêm văn bằng HR.
- - 2025 - 2027, Học thêm văn bằng Thạc sĩ.
+ - 2021: Started studying Computer Science (Honor Program) at University of Information Technology (UIT).
+ - 2022: Joined and started researching at Artificial Intelligence Club (UIT).
+ - 2023: Participate in Technology Science Research competitions and have my own Science Paper(s).
+ - 2024: Graduate with a Bachelor of Science in Computer Science (Honor Program) and start to study another degree in Human Resources Management.
+ - 2025 - 2027: Study MA degree in Computer Science.
  ---
  
 **_✨ SOMETHING ABOUT ME👉🏻👈🏻 ✨_**
