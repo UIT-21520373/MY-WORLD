@@ -1,4 +1,4 @@
-                                                          WELCOME TO MY WORLD
+                                                          WELCOME TO MY WORLD - 
                                                      
 **_✨ SELF INTRODUCTION ✨_**
   <img align="right" width="400px" hight = "600px" alt="GIF" src="https://i.pinimg.com/originals/45/84/a1/4584a1e592966241fa9849fdd194f5bd.gif" />
@@ -30,12 +30,20 @@
  ---
  
 **_✨ SOMETHING ABOUT ME👉🏻👈🏻 ✨_**
- <img align="right" width="170px" alt="GIF" src="https://cdni.iconscout.com/illustration/premium/thumb/developer-2143200-1801815.png" />
- - 👋🏻 Hi there, i'm Danh and a member of "The Amazing World Of Hexagon".🎇
- - 💻 I'm studying programming languages and my deparment is computer science.⌨
- - 🔬 As a laborious student, i'm interested in learning science especially in astronomy.👨🏻‍🚀
- - 👀 Team collaboration is very important and i always try to work effectively with everyone.👌🏻
- - 📓 at the age of 18, i would like to learn as much as possible in soft and hard skills.📈
+
+Châm ngôn sống: “Insanity is doing the same thing, over and over again, but expecting different results.” — Narcotics Anonymous
+
+Lời dẫn: Dù thế giới này có tàn nhẫn với bạn thế nào thì đâu đó vẫn còn một nơi yên bình dành cho bạn. Đến đây với thế giới của tôi, đến với một góc nhỏ nơi tràn đầy sự ngọt ngào và êm dịu. Nhưng hãy cẩn trọng với những điều bạn làm. Một bình hoa càng đẹp thì khi vỡ ra sẽ càng sắc bén. 
+
+Sở thích: 
+- Nghe nhạc - Bài hát ưa thích: Let's Fall In Love For The Night - FINNEAS
+- Nói chuyện với mọi người: Bất kể lúc nào, bất kể ở đâu, miễn là bạn quan trọng với tôi. Tôi đều dành thời gian lắng nghe bạn.
+- Viết văn - Nơi bộc bạch những cảm xúc của chính mình qua lời văn và câu ca. 
+
+Mục tiêu:
+- Cuộc sống mong muốn: Một cơn mơ nơi ta có em, có nhạc, có những câu ca và còn có những ước mơ đang ấp ủ của tôi.
+- Nghề nghiệp mong muốn: Với công việc chính là một AI developer kiêm 1 HR bán thời gian.
+- Ước mơ ấp ủ: Tôi là một đứa trẻ luôn vui cười khi gặp những người bạn và luôn mong bản thân có thể giúp đỡ họ thật nhiều.
  ---
  
 > contact for work
