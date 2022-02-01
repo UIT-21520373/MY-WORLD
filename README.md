@@ -1,9 +1,8 @@
-                                                      **_🎊WELCOME TO MY WORLD🎊_**
+                                                      WELCOME TO MY WORLD
                                                      
 **_✨ SELF INTRODUCTION ✨_**
-
-<img align="right" width="400px" alt="GIF" src="https://i.pinimg.com/originals/45/84/a1/4584a1e592966241fa9849fdd194f5bd.gif" />
-- ♊ Nguyễn Đức Nhân
+  <img align="right" width="400px" alt="GIF" src="https://i.pinimg.com/originals/45/84/a1/4584a1e592966241fa9849fdd194f5bd.gif" />
+- ♊ Nguyễn Đức Nhân 
 - 🎰 21521924 
 - 📅 25-02-2003 
 - 📖 Computer Science 
