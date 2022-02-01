@@ -1,7 +1,7 @@
                                                           WELCOME TO MY WORLD
                                                      
 **_✨ SELF INTRODUCTION ✨_**
-  <img align="right" width="400px" alt="GIF" src="https://i.pinimg.com/originals/45/84/a1/4584a1e592966241fa9849fdd194f5bd.gif" />
+  <img align="right" width="400px" hight = "600px" alt="GIF" src="https://i.pinimg.com/originals/45/84/a1/4584a1e592966241fa9849fdd194f5bd.gif" />
 - ♊ Nguyễn Đức Nhân 
 - 🎰 21521924 
 - 📅 25-02-2003 
@@ -20,11 +20,13 @@
   <img width="92px" src="https://i.ibb.co/WWjW9Xm/CSS3.png" alt="CSS3" border="0" />
  ---
  
- **_✨ LEARNING ROUTES 💻 ✨_**
+ **_✨ LEARNING ROUTES / PLAN TO DO 💻 ✨_**
  <img align="right" width="170px" alt="GIF" src="https://i.pinimg.com/originals/83/4f/38/834f3887bde180c0d471f00389466b9c.gif" />
- - In 2021, study at talented bachelor 2021 of UIT. 
- - 2021 - 2022, Enroll in a machine learning course.
- - Try to enroll any competition about AI and Machine Learning
+ - 2021, Bắt đầu học tại lớp cử nhân tài năng ở UIT.
+ - 2022, Học tập và tham gia AI-CLUB.
+ - 2023, Tham gia các cuộc thi về nghiên cứu khoa học và có bài báo khoa học.
+ - 2024, Tốt nghiệp đại học và học thêm văn bằng HR.
+ - 2025 - 2027, Học thêm văn bằng Thạc sĩ.
  ---
  
 **_✨ SOMETHING ABOUT ME👉🏻👈🏻 ✨_**
