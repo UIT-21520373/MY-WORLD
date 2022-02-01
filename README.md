@@ -1,4 +1,4 @@
-                                                          WELCOME TO MY WORLD - 
+                                                          WELCOME TO MY WORLD 
                                                      
 **_✨ SELF INTRODUCTION ✨_**
   <img align="right" width="400px" hight = "600px" alt="GIF" src="https://i.pinimg.com/originals/45/84/a1/4584a1e592966241fa9849fdd194f5bd.gif" />
@@ -33,10 +33,21 @@
 
 Châm ngôn sống: “Insanity is doing the same thing, over and over again, but expecting different results.” — Narcotics Anonymous
 
+Đoạn trích yêu thích: 
+  ```bash
+      "Unable to perceive the shape of You, 
+      I find You all around me.  
+      Your presence fills my eyes with Your love,  
+      It humbles my heart, For You are everywhere.” 
+                                                      - Guillermo del Toro -
+  ```
+  
+Bài hát ưa thích: Let's Fall In Love For The Night - FINNEAS
+
 Lời dẫn: Dù thế giới này có tàn nhẫn với bạn thế nào thì đâu đó vẫn còn một nơi yên bình dành cho bạn. Đến đây với thế giới của tôi, đến với một góc nhỏ nơi tràn đầy sự ngọt ngào và êm dịu. Nhưng hãy cẩn trọng với những điều bạn làm. Một bình hoa càng đẹp thì khi vỡ ra sẽ càng sắc bén. 
 
 Sở thích: 
-- Nghe nhạc - Bài hát ưa thích: Let's Fall In Love For The Night - FINNEAS
+- Nghe nhạc.
 - Nói chuyện với mọi người: Bất kể lúc nào, bất kể ở đâu, miễn là bạn quan trọng với tôi. Tôi đều dành thời gian lắng nghe bạn.
 - Viết văn - Nơi bộc bạch những cảm xúc của chính mình qua lời văn và câu ca. 
 
