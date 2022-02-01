@@ -1,5 +1,7 @@
-                                                     🎊WELCOME TO MY WORLD🎊
+                                                      **_🎊WELCOME TO MY WORLD🎊_**
+                                                     
 **_✨ SELF INTRODUCTION ✨_**
+
 <img align="right" width="400px" alt="GIF" src="https://i.pinimg.com/originals/45/84/a1/4584a1e592966241fa9849fdd194f5bd.gif" />
 - ♊ Nguyễn Đức Nhân
 - 🎰 21521924 
@@ -8,6 +10,7 @@
 - 📚 First-year student 
 - 🏫 University of Information Technology VNU-HCM 
 ---
+
 **_✨ PROGRAMING LANGUAGE ⌨ ✨_** 
 - In the process of: \
   <img width="92px" src="https://i.ibb.co/cD7rgYW/readme-logo-C.png" border="0" />
