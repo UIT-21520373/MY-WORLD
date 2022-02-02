@@ -11,7 +11,7 @@
 
 ---
 
-**_✨ PROGRAMING LANGUAGE ⌨ ✨_** 
+ **_✨ PROGRAMING LANGUAGE ⌨ ✨_**  
 - In the process of: \
   <img width="92px" src="https://i.ibb.co/cD7rgYW/readme-logo-C.png" border="0" />
   <img width="100px" src="https://i.ibb.co/MDHTKhG/Python3.png" alt="Python3" border="0" />
@@ -21,15 +21,21 @@
   <img width="92px" src="https://i.ibb.co/WWjW9Xm/CSS3.png" alt="CSS3" border="0" />
  ---
  
- **_✨ LEARNING ROUTES / PLAN TO DO 💻 ✨_**
- - 2021: Started studying Computer Science (Honor Program) at University of Information Technology (UIT).
- - 2022: Joined and started researching at Artificial Intelligence Club (UIT).
- - 2023: Participate in Technology Science Research competitions and have my own Science Paper(s).
- - 2024: Graduate with a Bachelor of Science in Computer Science (Honor Program) and start to study another degree in Human Resources Management.
- - 2025 - 2027: Study MA degree in Computer Science.
+ <h2> **_✨ LEARNING ROUTES / PLAN TO DO 💻 ✨_**  </h2>
+ 
+ - <b> 2021: </b> Started studying Computer Science (Honor Program) at University of Information Technology (UIT). 
+ 
+ - <b> 2022: </b> Joined and started researching at Artificial Intelligence Club (UIT).
+ 
+ - <b> 2023: </b> Participate in Technology Science Research competitions and have my own Science Paper(s).
+ 
+ - <b> 2024: </b> Graduate with a Bachelor of Science in Computer Science (Honor Program) and start to study another degree in Human Resources Management.
+ 
+ - <b> 2025 - 2027: </b> Study MA degree in Computer Science.
+ 
  ---
  
-**_✨ SOMETHING ABOUT ME👉🏻👈🏻 ✨_**
+<h2> **_✨ SOMETHING ABOUT ME👉🏻👈🏻 ✨_** </h2>
 
 Châm ngôn sống: “Insanity is doing the same thing, over and over again, but expecting different results.” — Narcotics Anonymous
 
