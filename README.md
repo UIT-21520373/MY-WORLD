@@ -1,13 +1,14 @@
                                                           WELCOME TO MY WORLD 
                                                      
-**_✨ SELF INTRODUCTION ✨_**
-  <img align="right" width="400px" hight = "600px" alt="GIF" src="https://i.pinimg.com/originals/45/84/a1/4584a1e592966241fa9849fdd194f5bd.gif" />
-- ♊ Nguyễn Đức Nhân 
-- 🎰 21520373
-- 📅 25-02-2003 
-- 📖 Computer Science 
-- 📚 First-year student 
-- 🏫 University of Information Technology VNU-HCM 
+<h2> **_✨ SELF INTRODUCTION ✨_** </h2>
+  <img align="right" width="400px" hight = "700px" alt="GIF" src="https://i.pinimg.com/originals/45/84/a1/4584a1e592966241fa9849fdd194f5bd.gif" />
+<h4> ♊ Nguyễn Đức Nhân </h4>
+<h4> 🎰 21520373 </h4>
+<h4> 📅 25-02-2003  </h4>
+<h4> 📖 Computer Science </h4>
+<h4> 📚 First-year student  </h4>
+<h4> 🏫 University of Information Technology VNU-HCM  </h4>
+
 ---
 
 **_✨ PROGRAMING LANGUAGE ⌨ ✨_** 
