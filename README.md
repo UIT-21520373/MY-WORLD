@@ -35,11 +35,11 @@
  
  ---
  
-<h2> **_✨ SOMETHING ABOUT ME👉🏻👈🏻 ✨_** </h2>
+<h2> **_✨ABOUT ME👉🏻👈🏻 ✨_** </h2>
 
-Châm ngôn sống: “Insanity is doing the same thing, over and over again, but expecting different results.” — Narcotics Anonymous
+✍Châm ngôn sống: “Insanity is doing the same thing, over and over again, but expecting different results.” — Narcotics Anonymous
 
-Đoạn trích yêu thích: 
+📃Đoạn trích yêu thích: 
   ```bash
       "Unable to perceive the shape of You, 
       I find You all around me.  
@@ -48,9 +48,9 @@ Châm ngôn sống: “Insanity is doing the same thing, over and over again, bu
                                                       - Guillermo del Toro -
   ```
   
-Bài hát ưa thích: Let's Fall In Love For The Night - FINNEAS
+🎧Bài hát ưa thích: Let's Fall In Love For The Night - FINNEAS
 
-Lời dẫn: Dù thế giới này có tàn nhẫn với bạn thế nào thì đâu đó vẫn còn một nơi yên bình dành cho bạn. Đến đây với thế giới của tôi, đến với một góc nhỏ nơi tràn đầy sự ngọt ngào và êm dịu. Nhưng hãy cẩn trọng với những điều bạn làm. Một bình hoa càng đẹp thì khi vỡ ra sẽ càng sắc bén. 
+👋Lời dẫn: Dù thế giới này có tàn nhẫn với bạn thế nào thì đâu đó vẫn còn một nơi yên bình dành cho bạn. Đến đây với thế giới của tôi, đến với một góc nhỏ nơi tràn đầy sự ngọt ngào và êm dịu. Nhưng hãy cẩn trọng với những điều bạn làm. Một bình hoa càng đẹp thì khi vỡ ra sẽ càng sắc bén. 
 
 Sở thích: 
 - Nghe nhạc.
