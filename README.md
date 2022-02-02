@@ -21,7 +21,6 @@
  ---
  
  **_✨ LEARNING ROUTES / PLAN TO DO 💻 ✨_**
- <img align="right" width="200px" hight = "250px" alt="GIF" src="https://i.pinimg.com/originals/83/4f/38/834f3887bde180c0d471f00389466b9c.gif" />
  - 2021: Started studying Computer Science (Honor Program) at University of Information Technology (UIT).
  - 2022: Joined and started researching at Artificial Intelligence Club (UIT).
  - 2023: Participate in Technology Science Research competitions and have my own Science Paper(s).
