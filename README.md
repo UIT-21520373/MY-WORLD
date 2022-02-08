@@ -37,7 +37,7 @@
  
 <h2> **_✨ABOUT ME👉🏻👈🏻 ✨_** </h2>
 
-✍Châm ngôn sống: “Insanity is doing the same thing, over and over again, but expecting different results.” — Narcotics Anonymous
+✍My saying: “Insanity is doing the same thing, over and over again, but expecting different results.” — Narcotics Anonymous
 
 📃Đoạn trích yêu thích: 
   ```bash
@@ -47,10 +47,9 @@
       It humbles my heart, For You are everywhere.” 
                                                       - Guillermo del Toro -
   ```
-  
-🎧Bài hát ưa thích: Let's Fall In Love For The Night - FINNEAS
+🎧My fav song: Let's Fall In Love For The Night - FINNEAS
 
-👋Lời dẫn: Dù thế giới này có tàn nhẫn với bạn thế nào thì đâu đó vẫn còn một nơi yên bình dành cho bạn. Đến đây với thế giới của tôi, đến với một góc nhỏ nơi tràn đầy sự ngọt ngào và êm dịu. Nhưng hãy cẩn trọng với những điều bạn làm. Một bình hoa càng đẹp thì khi vỡ ra sẽ càng sắc bén. 
+👋Introduction: No matter how cruel the world is to you, there is a place of peace for you. Come to my world, come to the small corner which is filled up by the sweetness and warmth. But be careful of what you do. The more blood it has the more beautiful it is.
 
 Sở thích: 
 - Nghe nhạc.
