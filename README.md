@@ -39,13 +39,12 @@
 
 ✍My saying: “Insanity is doing the same thing, over and over again, but expecting different results.” — Narcotics Anonymous
 
-👋Introduction: No matter how cruel the world is to you, there is a place of peace for you. Come to my world, come to the small corner which is filled up by the sweetness and warmth. But be careful of what you do. The more blood it has the more beautiful it is.
+👋Introduction: Welcome to my world, a corner full of sweetness and softness. As soon as you arrive, please be aware of your behavior. Obviously, the more stunning a flower vase you admire, the sharper it is when broken.
 
-Mục tiêu:
-- Cuộc sống mong muốn: Một cơn mơ nơi ta có em, có nhạc, có những câu ca và còn có những ước mơ đang ấp ủ của tôi.
-- Nghề nghiệp mong muốn: Với công việc chính là một AI developer kiêm 1 HR bán thời gian.
-- Ước mơ ấp ủ: Tôi là một đứa trẻ luôn vui cười khi gặp những người bạn và luôn mong bản thân có thể giúp đỡ họ thật nhiều.
- ---
+About purpose:
+- My job objective is to contribute as an AI developer/part-time HR.
+- My life objective is to encourage my dream while listening to these melodies and lyrics with you. 
+- My cherished dream is to be a happy kid and laugh a lot while staying with friends who I hope I can help as much as possible.
  
 > contact for work
 <a href="https://www.facebook.com/Amonnnnnn1/">
