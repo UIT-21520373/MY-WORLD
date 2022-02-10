@@ -1,6 +1,6 @@
                                                           WELCOME TO MY WORLD 
                                                      
-<h2> **_✨ SELF INTRODUCTION ✨_** </h2>
+## **_✨ SELF INTRODUCTION ✨_** 
   <img align="right" width="400px" hight = "700px" alt="GIF" src="https://i.pinimg.com/originals/45/84/a1/4584a1e592966241fa9849fdd194f5bd.gif" />
 <h4> ♊ Nguyễn Đức Nhân </h4>
 <h4> 🎰 21520373 </h4>
@@ -11,7 +11,7 @@
 
 ---
 
- **_✨ PROGRAMING LANGUAGE ⌨ ✨_**  
+ ## **_✨ PROGRAMING LANGUAGE ⌨ ✨_**  
 - In the process of: \
   <img width="92px" src="https://i.ibb.co/cD7rgYW/readme-logo-C.png" border="0" />
   <img width="100px" src="https://i.ibb.co/MDHTKhG/Python3.png" alt="Python3" border="0" />
@@ -21,7 +21,7 @@
   <img width="92px" src="https://i.ibb.co/WWjW9Xm/CSS3.png" alt="CSS3" border="0" />
  ---
  
- <h2> **_✨ LEARNING ROUTES / PLAN TO DO 💻 ✨_**  </h2>
+ ## **_✨ LEARNING ROUTES / PLAN TO DO 💻 ✨_**  
  
  - <b> 2021: </b> Started studying Computer Science (Honor Program) at University of Information Technology (UIT). 
  
@@ -35,26 +35,11 @@
  
  ---
  
-<h2> **_✨ABOUT ME👉🏻👈🏻 ✨_** </h2>
+## **_✨ABOUT ME👉🏻👈🏻 ✨_** 
 
 ✍My saying: “Insanity is doing the same thing, over and over again, but expecting different results.” — Narcotics Anonymous
 
-📃Đoạn trích yêu thích: 
-  ```bash
-      "Unable to perceive the shape of You, 
-      I find You all around me.  
-      Your presence fills my eyes with Your love,  
-      It humbles my heart, For You are everywhere.” 
-                                                      - Guillermo del Toro -
-  ```
-🎧My fav song: Let's Fall In Love For The Night - FINNEAS
-
 👋Introduction: No matter how cruel the world is to you, there is a place of peace for you. Come to my world, come to the small corner which is filled up by the sweetness and warmth. But be careful of what you do. The more blood it has the more beautiful it is.
-
-Sở thích: 
-- Nghe nhạc.
-- Nói chuyện với mọi người: Bất kể lúc nào, bất kể ở đâu, miễn là bạn quan trọng với tôi. Tôi đều dành thời gian lắng nghe bạn.
-- Viết văn - Nơi bộc bạch những cảm xúc của chính mình qua lời văn và câu ca. 
 
 Mục tiêu:
 - Cuộc sống mong muốn: Một cơn mơ nơi ta có em, có nhạc, có những câu ca và còn có những ước mơ đang ấp ủ của tôi.
@@ -72,3 +57,5 @@ Mục tiêu:
 <a href="21520373@gm.uit.edu.vn">
   <img align="left" alt="gmail" width="25px" src="https://img.icons8.com/color/240/000000/gmail-new.png" />
 </a>
+
+
